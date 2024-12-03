@@ -6,7 +6,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_su30pro.mk
+    $(LOCAL_DIR)/twrp_su30pro.mk
 
 COMMON_LUNCH_CHOICES := \
     omni_su30pro-user \
